@@ -71,11 +71,10 @@ The project follows the standard data analysis life cycle:
 ---
 
 ## 📁 Files Included
-
-- `SPM_PowerBI_project.pptx` – Final presentation
 - `README.md` – Project overview
-- `PowerBI_dashboard.png` – (Optional) Dashboard screenshot
-- `superstore_dataset.xlsx` – (If dataset is allowed to be public)
+- `PowerBI_dashboard.png` – [Dashboard screenshot](powerbi_dashboard.png)
+
+- `superstore_dataset.xlsx` – 
 
 ---
 

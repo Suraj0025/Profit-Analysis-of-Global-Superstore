@@ -72,7 +72,7 @@ The project follows the standard data analysis life cycle:
 
 ## 📁 Files Included
 - `README.md` – Project overview
-- `PowerBI_dashboard.png` – [Dashboard screenshot](powerbi_dashboard.png)
+- `PowerBI_dashboard.png` – [Dashboard screenshot](PowerBI_dashboard)
 
 - `superstore_dataset.xlsx` – 
 
